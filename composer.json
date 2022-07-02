@@ -1,0 +1,8 @@
+{
+"name": "user/mailer",
+"type": "project",
+"require": {
+	"phpmailer/phpmailer": "^6.2",
+		"league/oauth2-google": "^4.0"
+}
+}
